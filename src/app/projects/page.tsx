@@ -1,7 +1,7 @@
 import CardProject from '@/components/CardProject';
 
 const projects = [
-  { id: 1, title: "Portfolio", description: "Showcases my personal and professional projects.", githubLink: "https://github.com/rocerclasing/portafolio-rm.github.io-.git" },
+  { id: 1, title: "Portfolio", description: "Showcases my personal and professional projects.", githubLink: "https://github.com/rocerclasing/portafolio-rm.github.io.com.git" },
   { id: 2, title: "Blog", description: "An article publishing platform with pagination, retrieving data from the server.", githubLink: "https://github.com/rocerclasing/blog-basic-ts-next-react-js" },
   { id: 3, title: "Form", description: "Example of best practices in form creation using TypeScript.", githubLink: "https://github.com/rocerclasing/todos-ts-js-react-vite-basic" },
   { id: 4, title: "Simple URL", description: "A URL shortener that allows adding, editing, and deleting URLs.", githubLink: "https://github.com/rocerclasing/url-simple" },
