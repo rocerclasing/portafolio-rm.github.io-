@@ -1,12 +1,12 @@
 /** @type {import('next').NextConfig} */
 
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  basePath: '',
+    output: 'export',
+  distDir: 'build',
+  trailingSlash: true,
   reactStrictMode: true,
-  experimental: {
-    reactRefresh: false,
-  },
-  // Otras configuraciones pueden ir aquí
 };
 
 module.exports = nextConfig;
